@@ -239,7 +239,7 @@ aside {
     border-right: 1px solid rgba(255, 182, 193, 0.5);
     border-radius: 20px;
     margin: 1rem 0 1rem 1rem;
-    box-shadow: 0 8px 32px rgba(255, 105, 180, 0.3);
+    box-shadow: 0 12px 40px rgba(255, 105, 180, 0.4), 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .option-group {
